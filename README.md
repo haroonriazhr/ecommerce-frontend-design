@@ -11,11 +11,11 @@ This project is a UI design of a modern e-commerce website built specifically fo
 🎨 Modern UI with smooth design aesthetics
 
 📁 Tech Stack
+React
+
 HTML5
 
 CSS3
-
-JavaScript (optional for interactions)
 
 👨‍💻 Developed By
 Haroon Khokhar
